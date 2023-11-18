@@ -1,0 +1,300 @@
+
+@media(min-width: 992px) and (max-width: 1199px){
+
+	.our-service .icon-part p {
+	    padding: 0px;
+	}
+	.btn-stand {
+	    left: 28px;
+	}
+	.btn-bus {
+	    left: 34px;
+	}
+	.btn-pre {
+	    left: 33px;
+	}
+	.btn-uni {
+	    left: 27px;
+	}
+
+
+
+}
+@media(min-width: 768px) and (max-width: 991px){
+
+	.banner-section {
+	    margin-top: 25%;
+	}
+	.banner-section h1 {
+	    font-size: 30px;
+	}
+	.banner-section p {
+	    font-size: 15px;
+	}
+	
+	.banner-section .btn-banner {
+	    font-size: 15px;
+	}
+	.macbook h3 {
+	    padding-right: 0%;
+	}
+	.macbook p {
+	    padding: 0 7%;
+	}
+	.macbook .left-part {
+	    text-align: center;
+	}
+	.macbook .underline {
+	    margin: 30px auto;
+    }
+    .macbook img {
+	    height: 400px;
+	}
+	.macbook .right-part {
+	    margin-top: 35px;
+	}
+	.our-price .box {
+	    margin-bottom: 30px;
+	}
+	.our-price .box button {
+	    left: 89px;
+	}
+	.join-us h2 {
+	    font-size: 30px;
+	}
+	.join-us .btn-join-us {
+	    margin-top: 20px;
+	}
+	.contact .right {
+	    text-align: center;
+	}
+	.contact .right .underline {
+	    margin: 25px auto;
+	}
+	
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+	.macbook .left-part {
+	    text-align: center;
+	}
+	.macbook h3 {
+	    font-size: 30px;
+	    padding: 0px;
+	}
+	.macbook .underline {
+	    margin: 30px auto;
+	}
+	.macbook .underline {
+	    margin: 30px auto;
+	}
+	.macbook p {
+	    font-size: 14px;
+	}
+	.macbook h6 {
+		margin-bottom: 35px;
+	}
+	.macbook img {
+	    height: 300px;
+	}
+	.our-service {
+	    margin-top: -45px;
+	}
+	.our-service h3 {
+	    font-size: 30px;
+	    margin-top: 25px;
+	}
+	.our-service p {
+	    padding: 0px;
+	    margin: 30px 0px;
+	}
+	.our-service .icon-part {
+	    margin-top: 15px;
+	}
+	.banner-2 p {
+	    padding: 0px 60px;
+	    font-size: 14px;
+	}
+	.banner-2 .second-slide {
+	    padding: 0% 20%;
+	}
+	.banner-2 .icon-up {
+	    font-size: 35px;
+	    padding: 66px 0px 15px;
+	}
+	.banner-2 .icon-down {
+	    font-size: 35px;
+	}
+	.our-price .upper-part h3 {
+	    font-size: 30px;
+	    margin-bottom: 25px;
+	}
+	.our-price .upper-part p {
+	    padding: 0 18px;
+	    font-size: 14px;
+	}
+	.our-price .box button {
+	    left: 175px;
+	    top: 32%;
+	}
+	.our-price .box {
+	    margin: 30px;
+	}
+	.feature {
+	    text-align: center;
+	}
+	.feature h5 {
+	    margin: 20px 0px;
+	}
+	.join-us .btn-join-us {
+	    margin-top: 20px;
+	    margin-left: 0px;
+	}
+	.join-us h2 {
+	    font-size: 22px;
+	}
+	.update .upper-part p {
+	    padding: 0 7%;
+	    font-size: 14px;
+	}
+	.update .box {
+	    text-align: center;
+	}
+	.banner-3 p {
+	    padding: 0;
+	}
+	.contact {
+	    text-align: center;
+	}
+	.contact .right .underline {
+	    margin: 30px auto;
+	}
+	.contact .right h3 {
+	    font-size: 30px;
+	}
+}
+
+@media(min-width: 320px) and (max-width: 575px){
+
+	.banner-section {
+	    margin-top: 35%;
+	}
+	.banner-section h1 {
+	    font-size: 25px;
+	}
+	.banner-section p {
+	    line-height: 1.7;
+	    font-size: 15px;
+	}
+	.banner-section .btn-banner {
+	    font-size: 14px;
+	}
+	.macbook {
+	    text-align: center;
+	}
+	.macbook h3 {
+	    padding-right: 0;
+	    font-size: 25px;
+	}
+	.macbook .underline {
+	    margin: 30px auto;
+	}
+	.macbook p {
+	    font-size: 13px;
+	}
+	.macbook h6 {
+	    margin-bottom: 30px;
+	}
+	.macbook img {
+	    height: 300px;
+	}
+	.macbook img {
+	    height: 250px;
+	}
+	.our-service {
+	    margin-top: -35px;
+	}
+	.our-service h3 {
+	    margin-top: 0px;
+	}
+	.our-service p {
+	    font-size: 13px;
+	    padding: 0px;
+	}
+	.our-service .icon-part {
+	    margin-top: 0px;
+	}
+	.banner-2 p {
+	    font-size: 12px;
+	}
+	.our-price .box {
+	    margin: 20px;
+	}
+	.our-price .upper-part h3 {
+	    font-size: 25px;
+	}
+	.our-price .upper-part p {
+	    font-size: 13px;
+	}
+
+	.feature .box {
+	    text-align: center;
+	}
+	.join-us .btn-join-us {
+	    margin-left: 0px;
+	    margin-top: 20px;
+	}
+	.feature h5 {
+	    margin: 20px 0px;
+	}
+	.join-us h2 {
+	    font-size: 22px;
+	}
+	.update .upper-part h3 {
+	    font-size: 25px;
+	}
+	.update .upper-part p {
+	    padding: 0px;
+	    font-size: 13px;
+	}
+	.update .box {
+	    text-align: center;
+	}
+	.update .box h5 {
+	    font-size: 19px;
+	}
+	.banner-3 h3 {
+	    margin-top: 70px;
+	    font-size: 25px;
+	}
+	.banner-3 p {
+	    padding: 0px;
+	}
+	.banner-3 .btn-banner-3 {
+	    margin: 20px 0px;
+	}
+	.contact {
+	    text-align: center;
+	}
+	.contact .left img {
+	    height: 400px;
+	}
+	.contact .right h3 {
+	    padding-right: 0;
+	    font-size: 25px;
+	}
+	.contact .right p {
+	    font-size: 13px;
+	}
+	.contact .right .underline {
+	    margin: 30px auto;
+	}
+	footer .left {
+	    text-align: center;
+	}
+	footer .right p {
+		float: none;
+		text-align: center;
+	}
+	
+}
